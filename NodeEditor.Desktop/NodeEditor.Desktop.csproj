@@ -9,6 +9,6 @@
     <ItemGroup>
         <AvaloniaResource Include="Assets\**"/>
         <PackageReference Include="Avalonia.Desktop" Version="$(AvaloniaVersion)"/>
-        <PackageReference Include="NodeEditor.Base" Version="11.0.0-preview2"/>
+        <PackageReference Include="NodeEditor.Base" Version="$(NodeEditorVersion)"/>
     </ItemGroup>
 </Project>

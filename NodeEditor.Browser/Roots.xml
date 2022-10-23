@@ -4,5 +4,8 @@
 
   <assembly fullname="NodeEditor.Base" preserve="All" />
   <assembly fullname="NodeEditor.Browser" preserve="All" />
+  <assembly fullname="NodeEditorAvalonia" preserve="All" />
+  <assembly fullname="Avalonia.Themes.Fluent" preserve="All" />
+  
 
 </linker>
