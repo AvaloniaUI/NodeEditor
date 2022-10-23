@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SolutionFiles", "SolutionFiles", "{7B0CD07C-A43F-41CE-9A81-9DC22B8F2578}"
+	ProjectSection(SolutionItems) = preProject
+		global.json = global.json
+		Directory.Build.props = Directory.Build.props
+		nuget.config = nuget.config
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeEditor.Browser", "NodeEditor.Browser\NodeEditor.Browser.csproj", "{BD05C8FC-BC75-48CF-A65C-D3964D04D38A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NodeEditor.Desktop", "NodeEditor.Desktop\NodeEditor.Desktop.csproj", "{71F46512-A6A7-4B26-A12E-893EE4C1B3CD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BD05C8FC-BC75-48CF-A65C-D3964D04D38A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BD05C8FC-BC75-48CF-A65C-D3964D04D38A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BD05C8FC-BC75-48CF-A65C-D3964D04D38A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BD05C8FC-BC75-48CF-A65C-D3964D04D38A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{71F46512-A6A7-4B26-A12E-893EE4C1B3CD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{71F46512-A6A7-4B26-A12E-893EE4C1B3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{71F46512-A6A7-4B26-A12E-893EE4C1B3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{71F46512-A6A7-4B26-A12E-893EE4C1B3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+	EndGlobalSection
+EndGlobal

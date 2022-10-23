@@ -1,0 +1,8 @@
+<linker>
+
+  <!-- App -->
+
+  <assembly fullname="NodeEditor.Base" preserve="All" />
+  <assembly fullname="NodeEditor.Browser" preserve="All" />
+
+</linker>
