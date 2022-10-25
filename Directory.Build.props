@@ -6,6 +6,6 @@
   </PropertyGroup>
   <PropertyGroup>
     <NodeEditorVersion>11.0.999-build20221023-01</NodeEditorVersion>
-    <AvaloniaVersion>11.0.999-cibuild0025374-beta</AvaloniaVersion>
+    <AvaloniaVersion>11.0.999-cibuild0025395-beta</AvaloniaVersion>
   </PropertyGroup>
 </Project>
